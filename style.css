@@ -1,0 +1,32 @@
+
+body {
+font-family: Arial, sans-serif;
+background-color: #ffeded;
+text-align: center;
+}
+
+h1 {
+background-color: #333;
+color: white;
+padding: 20px;
+margin: 20px;
+border: 5px solid rgb(255, 255, 255);
+}
+
+h2 {
+background-color: #000000;
+color: white;
+margin: 15px;
+padding: 20px;
+border: 3px solid #9c8d00;
+width: 200px;
+display: inline-block;
+}
+
+h3 {
+background-color: #002747;
+color: white;
+margin: 30px;
+padding: 25px;
+border: 4px dashed #1573ff;
+}
